@@ -1,6 +1,7 @@
 {
   "firstName": "monsters-rolodex",
   "version": "0.1.0",
+  "homepage": "https://fatemehashemi75.github.io/Monseters-Rolodex/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
